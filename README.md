@@ -12,7 +12,8 @@ The end product should be an application that fetches posts from an API and disp
 
 Furthermore, there should be an input where the user can leave their email to subscribe to our newsletter. This should only do a post to an endpoint with the email as the request body and display a success message if the request was successful.
 
-**Bonus**
+**Bonus tasks**
+
 If you have some extra time :)
 * It would be nice if I could keep my favourites after reloading 
 * make the application usable on a mobile device. 
