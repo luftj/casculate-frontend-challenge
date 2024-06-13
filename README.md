@@ -41,7 +41,7 @@ The goal of this technical test is to check how you would handle our current sta
 - The solution should be **bug-free**.
 - Please include a document in your solution or add to this `README.md` instructions to run your code, comments about your approach to the implementation and any other relevant information you’d like to include.
 
-### What We Look At
+### What We Are Looking For
 
 - Code quality
 - Code structure
