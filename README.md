@@ -8,7 +8,9 @@ The required features on this page are listed below.
 
 ## The Task
 
-The end product should be an application that fetches posts from an API and displays them as a list of components. The user should be able to add and remove posts from favourites and search through them. The posts can be of two types: **news** or **banner**. Each should be displayed by a different component. If the user clicks on a post, they should be redirected to a page displaying the post image, title, and content, as well as an "add to favourites" button. 
+The end product should be an application that fetches posts from an API and displays them as a list of components. The posts can be of two types: **news** or **banner**. Each should be displayed by a different component. If the user clicks on a post, they should be redirected to a page displaying the post image, title, and content, as well as an "add to favourites" button. 
+
+The user should be able to add and remove posts from favourites and search through them.
 
 Furthermore, there should be an input where the user can leave their email to subscribe to our newsletter. This should only do a post to an endpoint with the email as the request body and display a success message if the request was successful.
 
@@ -47,6 +49,7 @@ The goal of this technical test is to check how you would handle our current sta
 - Code structure
 - Performance/optimization
 - User interface/experience
+- search algorithm
 
 ### Delivery
 
